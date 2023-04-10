@@ -1,1 +1,3 @@
 # ifelseternary
+
+www.patika.dev
