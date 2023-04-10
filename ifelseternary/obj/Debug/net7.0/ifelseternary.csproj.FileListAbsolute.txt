@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\training\ifelseternary\bin\Debug\net7.0\ifelseternary.exe
+C:\Users\HP\Desktop\training\ifelseternary\bin\Debug\net7.0\ifelseternary.deps.json
+C:\Users\HP\Desktop\training\ifelseternary\bin\Debug\net7.0\ifelseternary.runtimeconfig.json
+C:\Users\HP\Desktop\training\ifelseternary\bin\Debug\net7.0\ifelseternary.dll
+C:\Users\HP\Desktop\training\ifelseternary\bin\Debug\net7.0\ifelseternary.pdb
+C:\Users\HP\Desktop\training\ifelseternary\obj\Debug\net7.0\ifelseternary.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\training\ifelseternary\obj\Debug\net7.0\ifelseternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\ifelseternary\obj\Debug\net7.0\ifelseternary.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\ifelseternary\obj\Debug\net7.0\ifelseternary.AssemblyInfo.cs
+C:\Users\HP\Desktop\training\ifelseternary\obj\Debug\net7.0\ifelseternary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\training\ifelseternary\obj\Debug\net7.0\ifelseternary.dll
+C:\Users\HP\Desktop\training\ifelseternary\obj\Debug\net7.0\refint\ifelseternary.dll
+C:\Users\HP\Desktop\training\ifelseternary\obj\Debug\net7.0\ifelseternary.pdb
+C:\Users\HP\Desktop\training\ifelseternary\obj\Debug\net7.0\ifelseternary.genruntimeconfig.cache
+C:\Users\HP\Desktop\training\ifelseternary\obj\Debug\net7.0\ref\ifelseternary.dll
